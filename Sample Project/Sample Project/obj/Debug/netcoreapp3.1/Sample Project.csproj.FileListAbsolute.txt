@@ -1,0 +1,38 @@
+C:\Users\Adarsh\Desktop\Nikil\Sample Project\Sample Project\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Adarsh\Desktop\Nikil\Sample Project\Sample Project\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Adarsh\Desktop\Nikil\Sample Project\Sample Project\bin\Debug\netcoreapp3.1\Sample Project.exe
+C:\Users\Adarsh\Desktop\Nikil\Sample Project\Sample Project\bin\Debug\netcoreapp3.1\Sample Project.deps.json
+C:\Users\Adarsh\Desktop\Nikil\Sample Project\Sample Project\bin\Debug\netcoreapp3.1\Sample Project.runtimeconfig.json
+C:\Users\Adarsh\Desktop\Nikil\Sample Project\Sample Project\bin\Debug\netcoreapp3.1\Sample Project.runtimeconfig.dev.json
+C:\Users\Adarsh\Desktop\Nikil\Sample Project\Sample Project\bin\Debug\netcoreapp3.1\Sample Project.dll
+C:\Users\Adarsh\Desktop\Nikil\Sample Project\Sample Project\bin\Debug\netcoreapp3.1\Sample Project.pdb
+C:\Users\Adarsh\Desktop\Nikil\Sample Project\Sample Project\bin\Debug\netcoreapp3.1\Sample Project.Views.dll
+C:\Users\Adarsh\Desktop\Nikil\Sample Project\Sample Project\bin\Debug\netcoreapp3.1\Sample Project.Views.pdb
+C:\Users\Adarsh\Desktop\Nikil\Sample Project\Sample Project\obj\Debug\netcoreapp3.1\Sample Project.csproj.AssemblyReference.cache
+C:\Users\Adarsh\Desktop\Nikil\Sample Project\Sample Project\obj\Debug\netcoreapp3.1\Sample Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adarsh\Desktop\Nikil\Sample Project\Sample Project\obj\Debug\netcoreapp3.1\Sample Project.AssemblyInfoInputs.cache
+C:\Users\Adarsh\Desktop\Nikil\Sample Project\Sample Project\obj\Debug\netcoreapp3.1\Sample Project.AssemblyInfo.cs
+C:\Users\Adarsh\Desktop\Nikil\Sample Project\Sample Project\obj\Debug\netcoreapp3.1\Sample Project.csproj.CoreCompileInputs.cache
+C:\Users\Adarsh\Desktop\Nikil\Sample Project\Sample Project\obj\Debug\netcoreapp3.1\Sample Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Adarsh\Desktop\Nikil\Sample Project\Sample Project\obj\Debug\netcoreapp3.1\Sample Project.RazorAssemblyInfo.cache
+C:\Users\Adarsh\Desktop\Nikil\Sample Project\Sample Project\obj\Debug\netcoreapp3.1\Sample Project.RazorAssemblyInfo.cs
+C:\Users\Adarsh\Desktop\Nikil\Sample Project\Sample Project\obj\Debug\netcoreapp3.1\staticwebassets\Sample Project.StaticWebAssets.Manifest.cache
+C:\Users\Adarsh\Desktop\Nikil\Sample Project\Sample Project\obj\Debug\netcoreapp3.1\staticwebassets\Sample Project.StaticWebAssets.xml
+C:\Users\Adarsh\Desktop\Nikil\Sample Project\Sample Project\obj\Debug\netcoreapp3.1\scopedcss\bundle\Sample Project.styles.css
+C:\Users\Adarsh\Desktop\Nikil\Sample Project\Sample Project\obj\Debug\netcoreapp3.1\Sample Project.TagHelpers.input.cache
+C:\Users\Adarsh\Desktop\Nikil\Sample Project\Sample Project\obj\Debug\netcoreapp3.1\Sample Project.TagHelpers.output.cache
+C:\Users\Adarsh\Desktop\Nikil\Sample Project\Sample Project\obj\Debug\netcoreapp3.1\Sample Project.RazorCoreGenerate.cache
+C:\Users\Adarsh\Desktop\Nikil\Sample Project\Sample Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Adarsh\Desktop\Nikil\Sample Project\Sample Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Adarsh\Desktop\Nikil\Sample Project\Sample Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Adarsh\Desktop\Nikil\Sample Project\Sample Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Adarsh\Desktop\Nikil\Sample Project\Sample Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Adarsh\Desktop\Nikil\Sample Project\Sample Project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Adarsh\Desktop\Nikil\Sample Project\Sample Project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Adarsh\Desktop\Nikil\Sample Project\Sample Project\obj\Debug\netcoreapp3.1\Sample Project.RazorTargetAssemblyInfo.cache
+C:\Users\Adarsh\Desktop\Nikil\Sample Project\Sample Project\obj\Debug\netcoreapp3.1\Sample Project.RazorTargetAssemblyInfo.cs
+C:\Users\Adarsh\Desktop\Nikil\Sample Project\Sample Project\obj\Debug\netcoreapp3.1\Sample Project.Views.pdb
+C:\Users\Adarsh\Desktop\Nikil\Sample Project\Sample Project\obj\Debug\netcoreapp3.1\Sample Project.dll
+C:\Users\Adarsh\Desktop\Nikil\Sample Project\Sample Project\obj\Debug\netcoreapp3.1\Sample Project.pdb
+C:\Users\Adarsh\Desktop\Nikil\Sample Project\Sample Project\obj\Debug\netcoreapp3.1\Sample Project.genruntimeconfig.cache
+C:\Users\Adarsh\Desktop\Nikil\Sample Project\Sample Project\obj\Debug\netcoreapp3.1\Sample Project.csproj.CopyComplete
